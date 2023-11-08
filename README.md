@@ -13,7 +13,7 @@ Hey There 👋 , nice of you for wanting to know more about me 😊 . I am a New
 
 <i><b> JOIN ME AND WATCH MY PROGRESS AS I GROW INTO AN ABSOLUTELY DOMINANT CODER </b></i> 😉
 
-![GitHub followers](https://img.shields.io/github/followers/gamer301?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/xoxoxoTEMPESTxoxoxo?label=Follow&style=social)
 
 <!--
 Need more customization with social link + Buttons for language I use 
@@ -23,6 +23,6 @@ Need more customization with social link + Buttons for language I use
 
 ### Stats
 <a href="https://github.com/gamer301">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gamer301&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gamer301&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xoxoxoTEMPESTxoxoxo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xoxoxoTEMPESTxoxoxo&layout=compact&langs_count=8&theme=radical"/>
 </a>
